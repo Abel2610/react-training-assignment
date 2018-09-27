@@ -116,6 +116,8 @@ Step 7
 
 ```bash
 npm install --save react-calendar
+yarn add font-awesome
+yarn add react-bootstrap
 ```
 
 Step 8
